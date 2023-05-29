@@ -1,2 +1,3 @@
 # TIL
-Today I learned
+Today I learned.  
+공부, 일상 기록하기
